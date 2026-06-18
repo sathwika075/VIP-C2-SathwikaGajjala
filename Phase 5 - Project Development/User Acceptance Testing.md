@@ -4,7 +4,7 @@
 |:---|:---|
 | **Date** | 18 June 2026 |
 | **Team ID** | SMARTBRIDGE-2026-NM |
-| **Project Name** | NexusMart E-commerce Platform |
+| **Project Name** | NexusMart Platform |
 | **Maximum Marks** | 5 Marks |
 
 ---
