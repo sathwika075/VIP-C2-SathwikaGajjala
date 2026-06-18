@@ -1,4 +1,4 @@
-# NexusMart E-commerce Platform - Project Documentation
+# NexusMart Platform - Project Documentation
 
 ### A MERN Stack Web Application for Online Shopping and Order Management
 **Prepared by:** Gajjala Sathwika (Full Stack Developer - Frontend, Backend, Database, Documentation)
