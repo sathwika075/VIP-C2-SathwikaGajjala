@@ -178,7 +178,7 @@ cd backend
 npm run dev
 ```
 The backend will run on `http://localhost:5000`. On start, the script will automatically seed database credentials and products if empty.
-- **Admin Email**: `admin@nexusmart.com`
+- **Admin Email**: `admin@gmail.com`
 - **Admin Password**: `admin123`
 
 ### 6.2 Start the Frontend Server
