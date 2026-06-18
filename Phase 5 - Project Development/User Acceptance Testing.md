@@ -23,8 +23,8 @@
   * Admin dashboard operations: Dashboard stats, Product CRUD, Category CRUD, Order state update, User permissions administration.
 * **Testing Environment:**
   * **URL/Location:** Frontend running at `http://localhost:5173`, Backend running at `http://localhost:5000`
-  * **Credentials (User):** `user@nexusmart.com` / `password123`
-  * **Credentials (Admin):** `admin@nexusmart.com` / `adminpassword`
+  * **Credentials (User):** `user@gmail.com.com` / `password123`
+  * **Credentials (Admin):** `admin@gmail.com.com` / `adminpassword`
 
 ---
 
