@@ -10,7 +10,7 @@
 ---
 
 ### Project Overview
-* **Project Name:** NexusMart E-commerce Platform
+* **Project Name:** NexusMart Platform
 * **Project Description:** A fully integrated MERN stack e-commerce web application featuring real-time search, category filtering, a transparent cart, secure Stripe payments, user order history profiles, and an all-in-one Single-Page Admin Dashboard for system management.
 * **Project Version:** v1.0.0
 * **Testing Period:** 15 June 2026 to 18 June 2026
